@@ -1,5 +1,5 @@
 # VRT_builder
-Short python script to create VRT from files in (sub-)directories. 
+Short python script to create Virtual Raster file (VRT) from image files in (sub-)directories. 
 
 # Usage
 In a terminal, call the Python script with the following arguments: 
